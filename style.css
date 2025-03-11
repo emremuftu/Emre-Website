@@ -50,6 +50,6 @@ img {
     height: auto; /* Keeps the aspect ratio */
     display: block; /* Removes extra space below the image */
     margin: 0 auto; /* Centers the image */
-    width: 50%; /* Adjust this value to control size */
+    width: 75%; /* Adjust this value to control size */
 }
 
